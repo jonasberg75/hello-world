@@ -1,2 +1,3 @@
 # hello-world
-hello world repo
+
+Writing my first README for this resp
